@@ -5,6 +5,10 @@
 __pycache__
 .idea
 .venv
+dist/*
+build/*
+build
+setup.py
 
 
 # Backup files #

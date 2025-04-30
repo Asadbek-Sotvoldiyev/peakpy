@@ -18,7 +18,7 @@ URL = 'https://github.com/Asadbek-Sotvoldiyev/peakpy'
 EMAIL = 'blogasadbek@gmail.com'
 AUTHOR = 'Asadbek Sotvoldiyev'
 REQUIRES_PYTHON = '>=3.11.0'
-VERSION = '0.1.1'
+VERSION = '0.1.2'
 
 # What packages are required for this module to be executed?
 REQUIRED = [
